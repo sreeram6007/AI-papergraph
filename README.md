@@ -156,8 +156,3 @@ The application will be running at `http://localhost:5173`.
 | `GET` | `/documents` | List all library documents |
 | `GET` | `/search?q={query}` | Hybrid vector & text search |
 
----
-
-## 📄 License
-
-MIT License — free for personal, academic, and commercial use.
