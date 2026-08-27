@@ -3,6 +3,11 @@
 *.env
 .env.local
 
+# Local Data & Cache
+backend/data/
+backend/README.md
+frontend/README.md
+
 # Python
 __pycache__/
 *.py[cod]
