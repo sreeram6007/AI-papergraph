@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+spacy
+neo4j
+google-genai
+python-dotenv
+python-docx
+PyMuPDF      # PDF parsing
+python-multipart

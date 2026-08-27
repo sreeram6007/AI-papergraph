@@ -1,0 +1,44 @@
+{
+  "ce485023-eb71-40e5-9043-e243727cf8ef": {
+    "doc_id": "ce485023-eb71-40e5-9043-e243727cf8ef",
+    "title": "Metacaster: Meta-harness-optimized Agent for End-to-end",
+    "filename": "2608.23473v1.pdf",
+    "simplified_abstract": "Lightweight time series forecasters are efficient for resource-constrained settings but typically require substantial training data, limiting their use in data-scarce domains. To solve this, the authors introduce METACASTER, a meta-harness-optimized multi-agent framework that uses agentic data generation to automatically train specialized lightweight forecasters from only a few examples and textual contexts. Extensive experiments across 18 datasets, 23 lightweight forecasters, and 14 baselines show that METACASTER achieves high-quality performance while maintaining both data and computational efficiency.",
+    "updated_at": "2026-08-25T13:31:40.528172+00:00"
+  },
+  "52747069-2c4a-4197-b4ba-7701de07770a": {
+    "doc_id": "52747069-2c4a-4197-b4ba-7701de07770a",
+    "title": "Meta-moderator: Empowering Multi-agent Debate with Meta-cognition",
+    "filename": "2608.23029v1.pdf",
+    "simplified_abstract": "Multi-agent debates improve large language model reasoning, but existing methods struggle with inefficient moderation, leading to redundant discussions and poor final answers. To address this, the researchers introduce Meta-Moderator, a learnable framework that applies meta-cognition to dynamically monitor debates, control deliberation time, and determine the final outcome. Tested across five benchmarks, Meta-Moderator outperforms standard decision layers, transfers effectively to new tasks, and avoids common pitfalls like debate redundancy and evidence mis-aggregation.",
+    "updated_at": "2026-08-25T13:30:47.087074+00:00"
+  },
+  "edd345a7-454c-4052-b833-25d7995b3730": {
+    "doc_id": "edd345a7-454c-4052-b833-25d7995b3730",
+    "title": "2025-5-16 Alphaevolve: A Coding Agent for Scientific and Algorithmic Discovery",
+    "filename": "",
+    "simplified_abstract": "AlphaEvolve is an evolutionary coding agent that combines large language models with automated evaluation to tackle challenging scientific and computational problems. By iteratively writing and improving code based on performance feedback, the system successfully optimizes large-scale Google infrastructure, including data center scheduling and hardware accelerator design. Additionally, AlphaEvolve discovers novel, provably correct mathematical and algorithmic solutions, such as improving a 56-year-old method for complex-valued matrix multiplication.",
+    "updated_at": "2026-08-25T13:51:27.975819+00:00"
+  },
+  "79d2a8f2-7c99-48c9-b520-07379b1ee5e0": {
+    "doc_id": "79d2a8f2-7c99-48c9-b520-07379b1ee5e0",
+    "title": "A Whole Brain Probabilistic Generative Model: Toward Realizing Cognitive Architectures for Developmental Robots",
+    "filename": "",
+    "simplified_abstract": "This paper introduces the whole brain probabilistic generative model (WB-PGM) as a framework for building humanlike artificial general intelligence and developmental robotics. By integrating various elemental cognitive modules that learn continuously from sensory-motor information, WB-PGM mirrors human brain architecture. Furthermore, because probabilistic generative models explicitly describe informational relationships, this approach offers interpretable guidance to brain science and fosters collaboration between neuroscience and AI researchers.",
+    "updated_at": "2026-08-25T13:56:10.321944+00:00"
+  },
+  "5e117ff4-a5f0-469c-8e9d-ded4cdacddbe": {
+    "doc_id": "5e117ff4-a5f0-469c-8e9d-ded4cdacddbe",
+    "title": "Article a Benchmark of Expert-level Academic Questions to Assess AI Capabilities Center for AI Safety*, Scale AI* & Hle Contributors Consortium*",
+    "filename": "",
+    "simplified_abstract": "Existing AI benchmarks have become outdated because modern large language models now achieve over ninety percent accuracy on them. To address this limitation, researchers developed Humanity's Last Exam, a new benchmark consisting of 2,500 expert-level academic questions spanning dozens of subjects. Current state-of-the-art models struggle significantly with these difficult questions, demonstrating that a substantial gap remains between AI capabilities and the frontier of human knowledge.",
+    "updated_at": "2026-08-25T13:56:20.428631+00:00"
+  },
+  "2f759793-bdad-4ffb-8a8c-bdd81264e6f6": {
+    "doc_id": "2f759793-bdad-4ffb-8a8c-bdd81264e6f6",
+    "title": "Adaptive Guidance Accelerates Reinforcement Learning of Reasoning Models Vaskar Nath∗elaine Lau Anisha Gunjal Manasi Sharma Nikhil Baharte",
+    "filename": "",
+    "simplified_abstract": "This study investigates how reinforcement learning with verifiable rewards improves AI reasoning models, identifying two main drivers: self-distillation and genuine capability gain on new problems. Building on these findings, the authors introduce Guide, a new class of online training algorithms that adaptively incorporates natural language hints into the model's context. Experiments show that Guide significantly improves generalization and learning efficiency across math benchmarks.",
+    "updated_at": "2026-08-25T13:58:27.478299+00:00"
+  }
+}
